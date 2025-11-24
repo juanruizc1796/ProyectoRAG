@@ -1,0 +1,16 @@
+pandas
+numpy<2
+tqdm
+pdfplumber
+sentence-transformers
+langchain
+langgraph
+langchain-community
+python-dotenv
+streamlit
+langchain-ollama
+torch
+pydantic>=2.0.0
+transformers
+groq
+chromadb==0.5.0
