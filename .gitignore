@@ -8,13 +8,8 @@ __pycache__/
 *.pyc
 
 # Bases de datos
-data/processed/models/
-data/processed/models/**
 *.bin
 *.npy
-chroma_db/
-**/chroma_db/**
-chroma/
 
 # Streamlit cache
 .streamlit/
